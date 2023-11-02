@@ -6,15 +6,13 @@
 
 ## Các chức năng đã của ứng dụng:
 - Đăng nhập/Đăng ký
-- Thêm,xóa,sửa thông tin thuê xe
+- Quản lý thông tin xe
 - Xem danh sách xe
 - Xem thông tin chi tiết xe
-- Đăng nhập, đăng kí tài khoản người dùng
 - Quản lý hóa đơn đặt xe
-- Tạo hóa đơn cho xe
-- Quản lý tài xế
-- Đặt xe
-- Xem chi tiết hóa đơn
+- Xem thông tin đơn đặt xe
+- Quản lý thông tin tài xế
+- Xem thông tin tài xế
 
 ## Các chức năng dự kiến phát triển
 - Dùng định vị Google Map để đặt xe
